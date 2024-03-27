@@ -1,11 +1,5 @@
 # Lista de Atividades POO
 
-# Aluno
-* `Nelson Bellincanta Filho` 
-
-# Curso
-* `TADS`
-
 <hr>
 
 ## Atividades 
